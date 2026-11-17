@@ -1,35 +1,12 @@
-# Gradle files
-.gradle/
-build/
-.kotlin/
-
-# Local configuration file (sdk path, etc)
+/.gradle
+/build
+/*/build
+app_mojo/src/main/assets/components/jre
+/app_mojo/src/main/assets/components/jre-new/
+/app_mojo/src/main/assets/components/jre-21/
 local.properties
-
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.aab
-*.apk
-output-metadata.json
-
-# IntelliJ
-*.iml
 .idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+app_mojo/.cxx/
+.vs/
+/curseforge_key.txt
+/app_mojo/libs/ltw-release.aar
