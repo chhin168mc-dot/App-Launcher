@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- App name part -->
+    <string name="app_short_name">Copper</string>
+    <!-- Action bar part -->
+    <!-- Languages list part -->
+    <!-- Login strings -->
+    <string name="login_online_login_label">讛转讞讘专</string>
+    <!-- Hint -->
+    <!-- Warnings -->
+    <string name="warning_remove_account">讛讞砖讘讜谉 讬讜住专!</string>
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">讘讞专 诪转拽讬谉 mod</string>
+    <!-- Error messages -->
+    <string name="error_fatal">Copper 拽专住 讘讗讜驻谉 讘诇转讬 爪驻讜讬</string>
+    <string name="error_no_version">讗讬谉 讙专住讛!</string>
+    <string name="error_show_more">讛爪讙 注讜讚</string>
+    <string name="error_show_less">讛爪讙 驻讞讜转</string>
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">讛专砖讗讛 诇拽专讬讗讛/讻转讬讘讛 诇讗讞住讜谉 谞讚专砖转!</string>
+    <string name="toast_optifine_success">讛讛转拽谞讛 讛住转讬讬诪讛 讘讛爪诇讞讛</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">讜讬拽讬</string>
+    <!-- MCLauncherActivity: Account status -->
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">诪谞拽讛 拽讘爪讬 诪讟诪讜谉</string>
+    <string name="mcl_launch_downloading">诪讜专讬讚 %s</string>
+    <string name="mcl_launch_downloading_progress">"诪转拽讬谉 %s (%.2f MB / %.2f MB)"</string>
+    <string name="mcl_launch_download_assets">诪转讻讜谞谉 诇讛讜专讚转 诪砖讗讘讬诐</string>
+    <string name="mcl_options">讗驻砖专讜讬讜转</string>
+    <string name="mcl_option_customcontrol">驻拽讚讬诐 诪讜转讗诪讬诐 讗讬砖讬转</string>
+    <string name="mcl_setting_title_use_surface_view">讛砖转诪砖 讘 专讬谞讚讜专 诪砖讟讞 讞诇讜驻讬</string>
+    <string name="mcl_setting_subtitle_use_surface_view">\"讬讻讜诇 诇注讝讜专 讘讘讬爪讜注讬诐 讘转专讞讬砖讬诐 诪讜讙讘诇讬诐 注诇 讬讚讬 讛 GPU.</string>
+    <string name="mcl_setting_title_ignore_notch">讛转注诇诐 诪讛讞转讱</string>
+    <string name="mcl_setting_subtitle_ignore_notch">\"诪转注诇诐 诪讛诪讙专注转 讜诪专讞讬讘 讗转 讛诪住讱 诪转讞转 诇讛.\n谞讜转谉 诇讱 讞讜讜讬转 爪驻讬讬讛 诪砖讜驻专转.</string>
+    <string name="mcl_setting_title_resolution_scaler">拽谞讛 诪讬讚讛 砖诇 专讝讜诇讜爪讬讛</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">诪讗驻砖专 诇讱 诇讛谞诪讬讱 讗转 专讝讜诇讜爪讬讬转 讛诪砖讞拽. 100% 讝讛 专讝讜诇讜爪讬讛 诪诇讗讛.</string>
+    <string name="mcl_setting_title_longpresstrigger">讛驻注诇 讛砖讛讬讬转 诇讞讬爪讛 讗专讜讻讛</string>
+    <string name="mcl_setting_subtitle_longpresstrigger">砖谞讛 注讬讻讜讘 诇讞讬爪讛 讗专讜讻讛 注诇 讛讛讚拽 诇讛砖诪讚转 讘诇讜拽讬诐 讜讛驻诇转 驻专讬讟讬诐.</string>
+    <string name="mcl_setting_title_buttonscale">拽谞讛 讛诪讬讚讛 砖诇 讻驻转讜专讬 讛砖诇讬讟讛</string>
+    <string name="mcl_setting_subtitle_buttonscale">诪讙讚讬诇 讗转 讛讻驻转讜专讬诐 讗诐 讛诐 拽讟谞讬诐 诪讚讬.</string>
+    <string name="mcl_setting_title_mousescale">拽谞讛 讛诪讬讚讛 砖诇 讛注讻讘专</string>
+    <string name="mcl_setting_subtitle_mousescale">砖谞讛 讗转 讙讜讚诇 讛注讻讘专 讛讜讜讬专讟讜讗诇讬.</string>
+    <string name="mcl_setting_title_javaargs">驻专诪讟专讬诐 诇讛驻注诇转 JVM</string>
+    <string name="mcl_setting_subtitle_javaargs">讝讛讬专讜转! 砖讬谞讜讬 注专讻讬诐 讗诇讛 诇诇讗 讬讚注 诪转讗讬诐 注诇讜诇 诇讙专讜诐 诇诪砖讞拽 诇拽专讜住.</string>
+    <string name="mcl_setting_category_renderer">专讬谞讚讜专</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (讻诇 讛讙专住讗讜转, 诪讛讬专)</string>
+    <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (讻诇 讛讙专住讗讜转, 讘讬谞讜谞讬)</string>
+    <string name="mcl_setting_veroption_release">讛驻爪讛</string>
+    <string name="mcl_setting_veroption_snapshot">住谞讗驻砖讜讟</string>
+    <string name="mcl_setting_veroption_oldalpha">讗诇驻讗: 讙专住讛 讬砖谞讛</string>
+    <string name="mcl_setting_veroption_oldbeta">讘讟讗: 讙专住讛 讬砖谞讛</string>
+    <string name="mcl_setting_java_sandbox">讛驻注诇转 .jar 讘讗专讙讝 讞讜诇</string>
+    <string name="mcl_setting_java_sandbox_subtitle">\"砖诇讜讟 讘谞讙讬砖讜转 砖诇 诪谞讛诇 讛讗讘讟讞讛 sandbox 讘注转 讛驻注诇转 拽讜讘抓 .jar.\".</string>
+    <string name="mcl_version_clone">砖讻驻讜诇</string>
+    <!-- Global strings -->
+    <string name="global_edit">注专讜讱</string>
+    <string name="global_error">砖讙讬讗讛</string>
+    <string name="global_load">讟注谉</string>
+    <string name="global_name">砖诐</string>
+    <string name="global_remove">讛住专</string>
+    <string name="global_clone">砖讻驻讜诇</string>
+    <string name="global_restart">讗转讞讜诇</string>
+    <string name="global_save">砖诪讜专</string>
+    <string name="global_unpacking">诪讞诇抓 讗转 %s</string>
+    <string name="global_error_field_empty">砖讚讛 讝讛 讗讬谞讜 讬讻讜诇 诇讛讬讜转 专讬拽</string>
+    <string name="global_waiting">讛诪转谉</string>
+    <string name="global_select">讘讞专</string>
+    <string name="global_retry">谞讬住讬讜谉 讞讜讝专</string>
+    <string name="global_default">讘专讬专转 诪讞讚诇</string>
+    <!-- MainActivity: strings -->
+    <string name="mcn_exit_title">讛讬讬砖讜诪讜谉 / 讛诪砖讞拽 拽专住, 注诐 拽讜讚 砖讙讬讗讛 %d, 讘讚讜拽 讗转 latestlog.txt 诇诪讬讚注 谞讜住祝.</string>
+    <string name="mcn_exit_confirm">讛讗诐 讗转讛 讘讟讜讞 砖讗转讛 专讜爪讛 诇讻驻讜转 讻讬讘讜讬?</string>
+    <string name="mcn_check_fail_vulkan_support">Zink (Vulkan) 讗讬谞讜 谞转诪讱 讘诪讻砖讬专 讛讝讛!</string>
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">爪\'讗讟</string>
+    <string name="control_debug">谞驻讛 讘讗讙讬诐</string>
+    <string name="control_primary">Pri</string>
+    <string name="control_secondary">Sec</string>
+    <string name="control_inventory">Inv</string>
+    <string name="control_thirdperson">3rd</string>
+    <string name="control_listplayers">Tab</string>
+    <string name="control_mouse">注讻讘专</string>
+    <string name="control_mouseoff">注讻讘专: 诪讜砖讘转</string>
+    <string name="control_mouseon">注讻讘专: 驻注讬诇 </string>
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_forceclose">讻驻讛 讻讬讘讜讬</string>
+    <string name="control_viewout">诇讜讙 驻诇讟</string>
+    <string name="control_adebug">谞讬驻讜讬 砖讙讬讗讜转 拽诇讟</string>
+    <string name="control_customkey">砖诇讞 拽讜讚 诪拽砖 诪讜转讗诐 讗讬砖讬转</string>
+    <!-- ImportControlActivity Strings -->
+    <string name="import_control_label">讬讬讘讜讗 驻拽讚讬诐</string>
+    <string name="import_control_invalid_file">拽讜讘抓 砖讙讜讬 讗讜 驻讙讜诐</string>
+    <string name="import_control_import_button">讬讬讘讜讗 驻拽讚讬诐</string>
+    <string name="import_control_verifying_file">讛拽讜讘抓 谞诪爪讗 讘讗讬诪讜转, 讗谞讗 讛诪转谉 讜谞住讛 砖讜讘鈥�</string>
+    <string name="import_control_invalid_name">砖诐 砖讙讜讬 讗讜 砖讛拽讜讘抓 讻讘专 拽讬讬诐</string>
+    <string name="import_control_done">讬讬讘讜讗 讘讜爪注</string>
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+    <string name="customctrl_toggle">诪转讙</string>
+    <string name="customctrl_size">讙讜讚诇</string>
+    <string name="customctrl_mapping">诪讬驻讜讬</string>
+    <string name="customctrl_orientation">讻讬讜讜谉</string>
+    <string name="customctrl_background_color">爪讘注 讛专拽注</string>
+    <string name="customctrl_corner_radius">专讚讬讜住 驻讬谞讛</string>
+    <string name="customctrl_stroke_width">注讜讘讬 拽讜 讛诪转讗专</string>
+    <string name="customctrl_stroke_color">爪讘注 拽讜 讛诪转讗专</string>
+    <string name="customctrl_button_opacity">砖拽讬驻讜转 讛讻驻转讜专</string>
+    <string name="customctrl_addbutton">讛讜住祝 讻驻转讜专</string>
+    <string name="customctrl_addbutton_drawer">讛讜住祝 爪讬讬专 砖诇 讻驻转讜专</string>
+    <string name="customctrl_addbutton_joystick">讛讜住祝 讘拽专</string>
+    <string name="customctrl_addsubbutton">讛讜住祝 转转-讻驻转讜专</string>
+    <string name="customctrl_selectdefault">讘讞专 诪驻讛 讘拽专讬诐 讘专讬专转 诪讞讚诇</string>
+    <string name="customctrl_export">讬爪讗 诪驻转 讘拽专</string>
+    <string name="main_share_logs">砖转祝 拽讜讘抓 讬讜诪谉</string>
+    <string name="main_install_jar_file">讛驻注诇 拽讜讘抓 .jar</string>
+    <string name="main_play">讛驻注诇</string>
+    <string name="autoram_info_msg">讝讬讻专讜谉 讛讜讙讚专 诇 %d MB</string>
+    <string name="mcl_setting_check_libraries">讘讚讜拽 住驻专讬讜转 诇讗讞专 讛讛讜专讚讛</string>
+    <string name="mcl_setting_check_libraries_subtitle">讗驻砖专讜转 讝讜 诪讗诇爪转 讗转 讛诪砖讙专 鈥嬧�嬜溩懽撟曌� 讗转 讛 hash 砖诇 讛住驻专讬讬讛 讗诐 讛讜讗 讝诪讬谉. 诪讜谞注 讛讜专讚讜转 砖讘讜专讜转.</string>
+    <string name="dl_library_sha_fail">讛住驻专讬讬讛 %s 驻讙讜诪讛 讜诇讻谉 转讜专讚 诪讞讚砖</string>
+    <string name="dl_library_sha_unknown">诇讗 谞讬转谉 诇讘讚讜拽 讗转 讛住驻专讬讬讛 %s, 讗谞讜 诪谞讬讞讬诐 砖讛讬讗 讘住讚专</string>
+    <string name="dl_library_sha_pass">讛住驻专讬讬讛 %s 转拽讬谞讛 讜讗驻砖专 诇讛砖转诪砖 讘讛</string>
+    <string name="mcl_disable_gestures">讛砖讘转 诪讞讜讜转</string>
+    <string name="mcl_disable_gestures_subtitle">讛砖讘转 诪讞讜讜转, 诇诪砖诇: 讛讞讝拽 讻讚讬 诇砖讘讜专 讘诇讜拽, 讜讙注 讻讚讬 诇砖讬诐 讘诇讜拽.</string>
+    <string name="mcl_disable_swap_hand">讛砖讘转 诇讞讬爪讛 讻驻讜诇讛 诇讛注讘专转 讬讚讬讬诐</string>
+    <string name="mcl_disable_swap_hand_subtitle">讛砖讘转 诇讞讬爪讛 讻驻讜诇讛 注诇 驻专讬讟 讘住专讙诇 讛拽讬爪讜专讬诐 诇讛讞诇讬驻讜 讘讬讚 讛砖谞讬讬讛.</string>
+    <string name="mcl_setting_title_mousespeed">诪讛讬专讜转 讛注讻讘专</string>
+    <string name="mcl_setting_subtitle_mousespeed">\"诪砖谞讛 讗转 诪讛讬专讜转 讛注讻讘专 讛诪讚讜诪讛</string>
+    <string name="customctrl_passthru">注讻讘专 注讜讘专 讚专讱</string>
+    <string name="customctrl_swipeable">谞讬转谉 诇讛讞诇拽讛</string>
+    <string name="customctrl_forward_lock">谞注讬诇转 拽讚讬诪讛</string>
+    <string name="memory_warning_msg">讛讻诪讜转 讛谞讜讻讞讬转 砖诇 RAM 驻谞讜讬 (%d) 谞诪讜讻讛 诪讻诪讜转 讛-RAM 砖讛讜拽爪转讛 (%d), 诪讛 砖注诇讜诇 诇讙专讜诐 诇诪砖讞拽 诇拽专讜住. 讛谞讱 诪转讘拽砖 诇砖谞讜转 讗转 讛讛拽爪讗讛 讘诪讬讚讛 讜讛诪砖讞拽 拽讜专住.</string>
+    <string name="mcl_memory_allocation">讛拽爪讗转 讝讬讻专讜谉</string>
+    <string name="mcl_memory_allocation_subtitle">砖讜诇讟 讘讻诪讛 讝讬讻专讜谉 谞讬转谉 诇 诪讬讬谞拽专讗驻讟.</string>
+    <string name="multirt_runtime_corrupt">Java Runtime 驻讙讜诪讛</string>
+    <string name="multirt_runtime_incompatiblearch">讗专讻讬讟拽讟讜专讛 诇讗 谞转诪讻转: %s</string>
+    <string name="multirt_config_title">讙\'讗讜讜讛 专谞讟讬讬诐</string>
+    <string name="multirt_config_add">讛讜住祝 讞讚砖</string>
+    <string name="multirt_title">诪谞讛诇 Runtime</string>
+    <string name="multirt_subtitle">谞讛诇 讙\'讗讜讜讛 专谞讟讬讬诐 诪讜转拽谞讬诐</string>
+    <string name="multirt_progress_caching">砖讜诪专 讘诪讟诪讜谉...</string>
+    <string name="multirt_config_setdefault">讛讙讚专 讻讘专讬专转 诪讞讚诇</string>
+    <string name="multirt_config_setdefault_already">讘专讬专转 诪讞讚诇</string>
+    <string name="multirt_config_removeerror_last">注诇讬讱 砖讛讬讛 诇驻讞讜转 讙\'讗讜讜讛 专谞讟讬讬诐 讗讞讚 诪讜转拽谉.</string>
+    <string name="multirt_nojava8rt">诇讗 诪爪讗转讬 讗转 Java 8. 注诇 诪谞转 诇讛砖转诪砖 讘讗驻砖专讜转 讝讜, 注诇讬讱 诇讛转拽讬谉 Java 8.</string>
+    <string name="multirt_delete_runtime">诪讞拽 专谞讟讬讬诐</string>
+    <string name="pvc_gameDirectory">转讬拽讬讬转 讛诪砖讞拽</string>
+    <string name="pvc_jvmArgs">驻专诪讟专讬诐 砖诇 JVM</string>
+    <string name="preference_mouse_start_title">讛转讞诇 注诐 注讻讘专 讜讬专讟讜讗诇讬 诪讜驻注诇</string>
+    <string name="preference_mouse_start_description">讛注讻讘专 讛诪讚讜诪讛 诪讜驻讬注 讘注转 讛讛驻注诇讛 讻讗砖专 讗驻砖专讜转 讝讜 诪讜驻注诇转</string>
+    <string name="preference_video_title">讜讬讚讗讜 讜注讬讘讜讚</string>
+    <string name="preference_video_description">专讝讜诇讜爪讬讛 专谞讚专 讜讘讬爪讜注讬诐</string>
+    <string name="preference_control_title">讛转讗诪讛 讗讬砖讬转 砖诇 驻拽讚讬诐</string>
+    <string name="preference_control_description">诪讞讜讜转, 诇讞爪谞讬诐 讜拽谞讛 诪讬讚讛</string>
+    <string name="preference_java_title">讛转讗诪讜转 诇- Java</string>
+    <string name="preference_java_description">讙\'讗讜讜讛 专谞讟讬讬诐, JVM 讗专讙讜诪谞讟住 讻诪讜转 专讗诐 讜讗专讙讝 讞讜诇</string>
+    <string name="preference_misc_title">讛讙讚专讜转 砖讜谞讜转</string>
+    <string name="preference_misc_description">专砖讬诪转 讙专住讗讜转 讜讘讚讬拽转 住驻专讬讜转</string>
+    <string name="preference_experimental_title">讚讘专讬诐 谞讬住讬讜谞讬讬诐</string>
+    <string name="preference_experimental_description">讛砖转诪砖 讘讚讘专讬诐 砖诐 讘砖讬拽讜诇 讚注转, 诇诇讗 转诪讬讻讛</string>
+    <string name="preference_sustained_performance_title">讛驻注诇 \"诪爪讘 诪讗讜讝谉\"</string>
+    <string name="preference_sustained_performance_description">讛讙讘诇转 讛转讞诪诪讜转 讬转专 注诇 讬讚讬 讛讙讘诇转 讛讘讬爪讜注讬诐 讛诪专讘讬讬诐</string>
+    <string name="preference_force_vsync_title">诇讻驻讜转 讛驻注诇转 vsync</string>
+    <string name="preference_force_vsync_description">讛讙讘诇转 讛转讞诪诪讜转 讬转专 注诇 讬讚讬 讛讙讘诇转 讛讘讬爪讜注讬诐 讛诪专讘讬讬诐</string>
+    <string name="preference_force_english_title">讗诇抓 砖驻讛 诇讗谞讙诇讬转</string>
+    <string name="preference_force_english_description">诪讗驻砖专 诇讱 诇专讗讜转 讗转 讛诪讞专讜讝讜转 讛诪拽讜专讬讜转 讻驻讬 砖诪转讜讻谞谉 注诇 讬讚讬 讛诪驻转讞讬诐. 讚讜专砖 讛驻注诇讛 诪讞讚砖.</string>
+    <string name="preference_edit_controls_title">注专讬讻转 讘拽专讬诐 诪讜转讗诪讜转 讗讬砖讬转</string>
+    <string name="preference_edit_controls_summary">讻讜讜谞谉 讗转 诪注专讻转 讛讘拽专讛 讻讱 砖转转讗讬诐 诇爪专讻讬讱.</string>
+    <string name="preference_category_gyro_controls">讘拽专讬讬 讙讬专讜住拽讜驻</string>
+    <string name="preference_gyro_smoothing_title">讗驻砖专 讛讞诇拽转 讙\'讬专讜住拽讜驻</string>
+    <string name="preference_gyro_smoothing_description">讛驻讞转 专注讬讚讜转 转诪讜专转 注讬讻讜讘.</string>
+    <string name="preference_back_title">讞讝专讛 讗诇 讛诪住讱 讛讗讞专讜谉</string>
+    <string name="unnamed">诇诇讗 砖诐</string>
+    <string name="profiles_latest_snapshot">讛住谞讗驻砖讜讟 讛注讚讻谞讬</string>
+    <string name="profiles_latest_release">诪讛讚讜专讛 注讚讻谞讬转</string>
+    <string name="profiles_profile_name">砖诐</string>
+    <string name="profiles_profile_version">讙专住讗</string>
+    <string name="global_delete">诪讞讬拽讛</string>
+    <string name="pedit_java_runtime">Java Runtime</string>
+    <string name="pedit_renderer">专讬谞讚讜专</string>
+    <string name="notif_channel_name">讻诇诇讬</string>
+    <string name="lazy_service_default_title">砖讬专讜转 讛专拽注 砖诇 Copper</string>
+    <string name="use_global_default">(讛砖转诪砖 讘讛讙讚专讜转 讘专讬专转 讛诪讞讚诇 讛讙诇讜讘诇讬讜转)</string>
+    <string name="default_control">诪驻转 讘拽专 讘专讬专转 诪讞讚诇</string>
+    <string name="progresslayout_tasks_in_progress">诪砖讬诪讜转 讘转讛诇讬讱%d</string>
+    <string name="notification_terminate">诇讛驻住讬拽</string>
+    <string name="notification_game_runs">讛诪砖讞拽 驻讜注诇!</string>
+    <string name="folder_dialog_create">爪讜专</string>
+    <string name="folder_dialog_insert_name">讛讻谞住 砖诐 转讬拽讬讬讛.</string>
+    <string name="folder_fragment_create">爪讜专 转讬拽讬讬讛</string>
+    <string name="folder_fragment_select">讘讞专 转讬拽讬讬讛</string>
+    <string name="main_login_done">讛转讞讘专讜转 讛讜砖诇诪讛.</string>
+    <string name="main_add_account">讛讜住祝 讞砖讘讜谉</string>
+    <string name="tasks_ongoing">诪砖讬诪讜转 讘转讛诇讬讱, 讗谞讗 讛诪转谉.</string>
+    <string name="no_saved_accounts">诇讗 谞砖诪专 讞砖讘讜谉</string>
+
+    <string name="xerr_unknown">砖讙讬讗讛 诇讗 讬讚讜注讛 讘诪诪砖拽 讛 API 砖诇 Xbox Live: %d</string>
+
+    <string name="xerr_adult_verification">讗讚诐 讘讜讙专 爪专讬讱 诇讗诪转 讗转 讞砖讘讜谞讱.</string>
+    <string name="xerr_child">讞砖讘讜谉 砖诇讱 讛讜讗 讞砖讘讜谉 讬诇讚讬诐 讜爪专讬讱 诇讛讬讻谞住 诇诪砖驻讞讛 注诇 诪谞转 诇讛讬讻谞住.</string>
+
+    <string name="xerr_not_available">Xbox Live 讗讬谞讜 讝诪讬谉 讘诪讚讬谞讛 砖诇讱</string>
+    <string name="preference_enable_gyro_title">讗驻砖专 讗转 讘拽专讬 讛讙\'讬讬专讜住拽讜驻</string>
+    <string name="preference_enable_gyro_description">讛驻注诇转 讝讛 讬讗驻砖专 诇讱 诇讛住转讜讘讘 讘诪砖讞拽 注诇 讬讚讬 住讬讘讜讘 讛讟诇驻讜谉.</string>
+    <string name="preference_gyro_sensitivity_title">专讙讬砖讜转 讘拽专讬 讞讬讬砖谉 讛讻讬讜讜谉</string>
+    <string name="preference_gyro_sensitivity_description">讻讜讜谉 讗转 讛专讙讬砖讜转 砖诇 讘拽专讬 讞讬讬砖谉 讻讬讜讜谉.</string>
+    <string name="toast_turn_on_gyro">讛驻注诇讜 拽讜讚诐 讗转 讘拽专讬 讞讬讬砖谉 讛讻讬讜讜谉 讘讻讚讬 诇讛砖转诪砖 讘讝讛!</string>
+    <string name="preference_gyro_sample_rate_title">拽爪讘 讚讙讬诪转 讞讬讬砖谉 讛讻讬讜讜谉</string>
+    <string name="preference_gyro_sample_rate_description">讗诐 讗转诐 讞讜讜讬诐 讘注讬讜转 讘讬爪讜注讬诐 注诐 讘拽专讬 讞讬讬砖谉 讛讻讬讜讜谉, 讛讙讚讬诇讜 注专讱 讝讛.</string>
+    <string name="microsoft_login_retry_later">讬讜转专 诪讚讬 讘拽砖讜转, 谞住讜 砖讜讘 诪讗讜讞专 讬讜转专.</string>
+    <string name="storage_required">Copper 讚讜专砖 讗讞住讜谉 讞讬爪讜谞讬 诪讞讜讘专. 讗谞讗 讞讘专 讗讜转讜 诪讞讚砖 讜讛驻注诇 诪讞讚砖 讗转 讛讗驻诇讬拽爪讬讛.</string>
+    <string name="mcl_setting_title_buttonallcaps">讛砖转诪砖 讘讗讜转讬讜转 讙讚讜诇讜转 讘诇讘讚 讘转讜讜讬讜转 讛讻驻转讜专讬诐.</string>
+    <string name="mcl_setting_subtitle_buttonallcaps">讛砖讘转 讗驻砖专讜转 讝讜 讗诐 讘专爪讜谞讱 诇讛砖转诪砖 讘讗讜转讬讜转 拽讟谞讜转 讘讘拽专讬诐 砖诇讱.</string>
+    <string name="preference_shader_dump_title">讗驻砖专 讛砖诇讻转 讛爪诇诇讛</string>
+    <string name="preference_shader_dump_description">专讬砖讜诐 讛爪诇诇讜转 砖讛讜诪专讜 诇拽讜讘抓 讛讬讜诪谉.</string>
+    <string name="customctrl_editor_exit_title">注讝讬讘讛?</string>
+    <string name="customctrl_editor_exit_msg">讛讗诐 讗转讛 讘讟讜讞 砖讘专爪讜谞讱 诇爪讗转?</string>
+    <string name="customctrl_editor_exit">注讝讜讘 讗转 讛注讜专讱.</string>
+    <string name="global_save_and_exit">砖诪讜专 讜爪讗</string>
+    <string name="global_yes">讻谉</string>
+    <string name="global_no">诇讗</string>
+    <string name="preference_controller_map_wiped">转爪讜专转 讛讘拽专 谞诪讞拽讛.</string>
+    <string name="preference_category_controller_settings">讛讙讚专讜转 讘拽专</string>
+    <string name="preference_wipe_controller_title">讗讬驻讜住 诪讬驻讜讬 讛讘拽专</string>
+    <string name="preference_wipe_controller_description">诪讗驻砖专 诇讱 诇诪驻讜转 诪讞讚砖 讗转 讻驻转讜专讬 讛讘拽专.</string>
+    <string name="preference_deadzone_scale_title">住讜诇诐 讗讝讜专 诪转 砖诇 讙\'讜讬住讟讬拽</string>
+    <string name="preference_deadzone_scale_description">讛讙讚诇 讗转 讛注专讱 讗诐 讛讙\'讜讬住讟讬拽 谞住讞祝.</string>
+    <string name="preference_force_big_core_title">讻驻讛 注诇 诪谞讜注 讛专讬谞讚讜专 诇驻注讜诇 注诇 讛诇讬讘讛 讛讙讚讜诇讛.</string>
+
+    <string name="version_select_hint">讘讞专 讙专住讛</string>
+    <string name="forge_dl_progress">诪讜专讬讚 诪转拽讬谉 注讘讜专 %s</string>
+    <string name="forge_dl_searching">诪讞驻砖 诪住驻专 讙专住讛 砖诇 Forge</string>
+    <string name="modloader_dl_failed_to_load_list">讟注讬谞转 专砖讬诪转 讛讙专住讗讜转 谞讻砖诇讛!</string>
+    <string name="forge_dl_no_installer">诪爪讟注专讬诐, 讗讱 诇讙专住转 Forge 讝讜 讗讬谉 诪转拽讬谉, 讜讛讬讗 讗讬谞讛 谞转诪讻转 讘砖诇讘 讝讛.</string>
+    <string name="forge_dl_select_version">讘讞专 讙讬专住转 forge</string>
+    <string name="fabric_dl_progress">诪讜专讬讚 诪讟讗 谞转讜谞讬诐 砖诇 诪讟注讬谉 %s</string>
+    <string name="fabric_dl_loader_version">讙专住转 诪讟注讬谉 %s</string>
+    <string name="fabric_dl_game_version">讙专住转 诪讬谞拽专讗驻讟</string>
+    <string name="of_dl_progress">诪讜专讬讚 %s</string>
+    <string name="generic_debug">谞驻讛 讘讗讙讬诐</string>
+    <string name="preference_category_java_tweaks">讛转讗诪讜转 诇- Java</string>
+    <string name="preference_category_miscellaneous">讛讙讚专讜转 砖讜谞讜转</string>
+    <string name="controller_button_select">讘讞专</string>
+</resources>
