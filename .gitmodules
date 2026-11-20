@@ -3,7 +3,7 @@
 	url = https://github.com/chhin168mc-dot/glfw.git
 [submodule "mojoexec"]
 	path = mojoexec
-	url = https://github.com/MojoLauncher/mojoexec
+	url = https://github.com/chhin168mc-dot/mojoexec.git
 [submodule "sdl"]
 	path = sdl
 	url = https://github.com/MojoLauncher/MojoSDL
