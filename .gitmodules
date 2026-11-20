@@ -10,3 +10,6 @@
 [submodule "NoBlocklist"]
 	path = NoBlocklist
 	url = https://github.com/chhin168mc-dot/NoBlocklist.git
+[submodule "MojoSDL"]
+	path = MojoSDL
+	url = https://github.com/chhin168mc-dot/MojoSDL.git
