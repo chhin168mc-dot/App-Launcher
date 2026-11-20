@@ -1,6 +1,6 @@
 [submodule "glfw"]
 	path = glfw
-	url = https://github.com/MojoLauncher/glfw
+	url = https://github.com/chhin168mc-dot/glfw.git
 [submodule "mojoexec"]
 	path = mojoexec
 	url = https://github.com/MojoLauncher/mojoexec
